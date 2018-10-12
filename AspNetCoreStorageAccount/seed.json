@@ -1,0 +1,24 @@
+[
+  {
+    "PartitionKey": "partitionKey1",
+    "RowKey": "1",
+    "OtherColumn": "value1",
+    "FourthColumn": "123"
+  },
+  {
+    "PartitionKey": "partitionKey1",
+    "RowKey": "2",
+    "OtherColumn": "value2",
+    "FourthColumn": "123"
+  },
+  {
+    "PartitionKey": "partitionKey2",
+    "RowKey": "1",
+    "OtherColumn": "value1"
+  },   
+  {
+    "PartitionKey": "partitionKey2",
+    "RowKey": "2",
+    "OtherColumn": "value1"
+  }    
+]
